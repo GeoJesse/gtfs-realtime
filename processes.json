@@ -1,0 +1,10 @@
+{
+  "apps" : [
+	{
+		"name": "mmtpa-gtfs",
+		"script": "index.js",
+		"watch": false,
+		"max_memory_restart" : "250M"
+	}    
+  ]
+}
